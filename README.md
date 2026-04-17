@@ -60,10 +60,6 @@ Tools: `search_courses`, `get_course`
 
 ## Premium Data
 
-Need tee ratings, slopes, per-tee yardages, climate normals, nearby hotels, real-time weather, or booking links?
-
-**[GolfAGI API](https://golfagi.com)** — the intelligence layer on top of OpenGolfAPI.
-
 ## License
 
 **ODbL 1.0** — same license as OpenStreetMap.
