@@ -77,8 +77,7 @@ You can use this data for any purpose (including commercial) as long as you:
 - [OpenStreetMap](https://www.openstreetmap.org/) — course locations (ODbL)
 - [OpenMeteo](https://open-meteo.com/) — climate normals (CC BY)
 - [Nominatim](https://nominatim.openstreetmap.org/) — reverse geocoding (ODbL)
-- Public course websites — phone, email, hours, scorecards (public facts)
-- [GolfPass](https://www.golfpass.com/) — architect, year built, par (public facts)
+- Public course websites — scorecards, architect, year built, phone, email (public facts)
 
 ## Contribute
 
