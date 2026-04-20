@@ -1,0 +1,3009 @@
+{
+  "type": "FeatureCollection",
+  "name": "OpenGolfAPI IL Public Courses Sample",
+  "description": "Sample of 100 public golf courses in Illinois for OSM import review",
+  "license": "ODbL-1.0",
+  "generated": "2026-04-20T19:48:01.827Z",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4860492409722,
+          42.3587352791667
+        ]
+      },
+      "properties": {
+        "osm_id": 6292488,
+        "name": "Abbey Springs Golf Course",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 71,
+        "phone": "+1 262 275 6113",
+        "website": "https://abbeysprings.org/",
+        "start_date": "1985",
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 5,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.200715065,
+          38.2932964613
+        ]
+      },
+      "properties": {
+        "osm_id": null,
+        "name": "Acorns Golf Links",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": null,
+        "website": "http://www.acornsgolflinks.com/",
+        "start_date": "1997",
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 5,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 5,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 3,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2017454,
+          38.2955539
+        ]
+      },
+      "properties": {
+        "osm_id": 1465335554,
+        "name": "Acorns Golf Links",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": "+1-618-939-7800",
+        "website": "https://acornsgolf.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 5,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 5,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 3,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1340933,
+          42.3134133
+        ]
+      },
+      "properties": {
+        "osm_id": null,
+        "name": "Advance Country Club",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 36,
+        "phone": "847-740-4890",
+        "website": "http://www.stonewallorchard.com/",
+        "start_date": "1971",
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 5,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 3,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 5,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9898457,
+          42.2914643
+        ]
+      },
+      "properties": {
+        "osm_id": 26444496,
+        "name": "Aldeen Golf Club",
+        "golf:type": "public",
+        "golf:holes": null,
+        "golf:par": null,
+        "phone": null,
+        "website": null,
+        "start_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.965113,
+          38.8044011
+        ]
+      },
+      "properties": {
+        "osm_id": 295678312,
+        "name": "American Legion Golf Course",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 35,
+        "phone": "+1-618-656-9774",
+        "website": "https://www.edwardsvillelegion.com/",
+        "start_date": null,
+        "golf:hole:1:par": 3,
+        "golf:hole:2:par": 5,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.83349,
+          41.1458062
+        ]
+      },
+      "properties": {
+        "osm_id": 295902620,
+        "name": "Anderson Fields Golf Course",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 35,
+        "phone": "+1-815-672-3702",
+        "website": "https://www.ci.streator.il.us/anderson-fields.php",
+        "start_date": null,
+        "golf:hole:1:par": 5,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8231744,
+          42.1212143
+        ]
+      },
+      "properties": {
+        "osm_id": 800853167,
+        "name": "Anetsberger Golf Course",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 27,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 3,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 3,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 3,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1997016,
+          38.3510225
+        ]
+      },
+      "properties": {
+        "osm_id": 1466372251,
+        "name": "Annbriar Golf Course",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 5,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 3,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 5,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1546964928571,
+          42.4148262875
+        ]
+      },
+      "properties": {
+        "osm_id": 3935319,
+        "name": "Apple Canyon Lake Golf Course",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 36,
+        "phone": "+1 815-492-2477",
+        "website": "http://www.applecanyonlake.org/amenities/golf.php",
+        "start_date": null,
+        "golf:hole:1:par": 5,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 5,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0335741,
+          38.710615
+        ]
+      },
+      "properties": {
+        "osm_id": 363657192,
+        "name": "Arlington Greens Golf Course",
+        "golf:type": "public",
+        "golf:holes": 12,
+        "golf:par": 72,
+        "phone": "+1 618 931 5232",
+        "website": "https://www.arlingtongreens.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 5,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 5,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 5,
+        "golf:hole:12:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9981942,
+          42.0634676
+        ]
+      },
+      "properties": {
+        "osm_id": 110603939,
+        "name": "Arlington Lakes Golf Course",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 68,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 5,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 3,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6033391,
+          40.9246659
+        ]
+      },
+      "properties": {
+        "osm_id": 312446805,
+        "name": "Arrowhead Country Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 5,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 5,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.133915,
+          41.82897
+        ]
+      },
+      "properties": {
+        "osm_id": null,
+        "name": "Arrowhead Golf Club",
+        "golf:type": "public",
+        "golf:holes": 12,
+        "golf:par": 70,
+        "phone": "630.653.5802",
+        "website": "https://arrowheadgolfclub.org/",
+        "start_date": "1972",
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 5,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 3,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 3,
+        "golf:hole:12:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0721044,
+          40.0299092
+        ]
+      },
+      "properties": {
+        "osm_id": 363611164,
+        "name": "Arrowhead Heights Golf Course",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 71,
+        "phone": "+1 217 593 6619",
+        "website": "https://arrowheadheights.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 5,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 5,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 3,
+        "golf:hole:10:par": 5,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8420225,
+          41.1810262
+        ]
+      },
+      "properties": {
+        "osm_id": 93327586,
+        "name": "Aspen Ridge Golf Course",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 71,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 5,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1732612875912,
+          40.0900407919708
+        ]
+      },
+      "properties": {
+        "osm_id": 1941143,
+        "name": "Atkins Golf Club at the University of Illinois",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": "2170844922",
+        "website": "https://fightingillini.com/facilities/atkins-golf-club/39",
+        "start_date": null,
+        "golf:hole:1:par": 5,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 5,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 3,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.054248,
+          42.3904556
+        ]
+      },
+      "properties": {
+        "osm_id": 808162358,
+        "name": "Atwood Homestead",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 36,
+        "phone": "+1-815-623-2411",
+        "website": "https://www.playthepreserves.com/atwood-homestead/",
+        "start_date": "1998",
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 5,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 5,
+        "golf:hole:9:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3542336,
+          41.7487443
+        ]
+      },
+      "properties": {
+        "osm_id": 70650250,
+        "name": "Aurora Country Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 5,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 5,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6090858941176,
+          41.5067784529412
+        ]
+      },
+      "properties": {
+        "osm_id": 9952958,
+        "name": "Baehmann's Par 3 Course",
+        "golf:type": "public",
+        "golf:holes": null,
+        "golf:par": null,
+        "phone": null,
+        "website": null,
+        "start_date": "1965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6175683,
+          41.3992973
+        ]
+      },
+      "properties": {
+        "osm_id": 473395332,
+        "name": "Balmoral Woods Country Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": "10006378684",
+        "website": "https://balmoralwoods.com/",
+        "start_date": null,
+        "golf:hole:1:par": 5,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 5,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 3,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 5,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 5,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.19615,
+          41.9979012
+        ]
+      },
+      "properties": {
+        "osm_id": 846456215,
+        "name": "Barlett hills golf club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 71,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 5,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 5,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0599311,
+          42.0146652
+        ]
+      },
+      "properties": {
+        "osm_id": null,
+        "name": "Barnes Brook Golf Ski",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 36,
+        "phone": "1503068273",
+        "website": "https://www.foxrungolflinks.com/",
+        "start_date": "1965",
+        "golf:hole:1:par": 5,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 5,
+        "golf:hole:7:par": 3,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1672921,
+          42.1615867
+        ]
+      },
+      "properties": {
+        "osm_id": 307080516,
+        "name": "Barrington Hills Country Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 71,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 5,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7621054,
+          42.4356241
+        ]
+      },
+      "properties": {
+        "osm_id": 464583736,
+        "name": "Beaver Creek Golf Course",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 35,
+        "phone": "+1 815-569-2427",
+        "website": "https://www.beavercreekgolfil.com/",
+        "start_date": "1997",
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 5,
+        "golf:hole:9:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0476184,
+          38.8700713
+        ]
+      },
+      "properties": {
+        "osm_id": 295678313,
+        "name": "Belk Park Golf Course",
+        "golf:type": "public",
+        "golf:holes": 12,
+        "golf:par": 72,
+        "phone": "+1-618-251-3115",
+        "website": "https://www.belkpark.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 5,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 5,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 5,
+        "golf:hole:12:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8781471,
+          38.017522
+        ]
+      },
+      "properties": {
+        "osm_id": 900265515,
+        "name": "Benton Country Club",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 36,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 5,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 5,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 3,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6095433,
+          39.7999703
+        ]
+      },
+      "properties": {
+        "osm_id": 295758005,
+        "name": "Bergen Golf Course",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 35,
+        "phone": "+1-217-753-6211",
+        "website": "https://www.springfieldparkdistrictgolf.org/bergen_golf_course/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3522925,
+          42.0806324
+        ]
+      },
+      "properties": {
+        "osm_id": 96598689,
+        "name": "Better Shots Driving Range",
+        "golf:type": "public",
+        "golf:holes": null,
+        "golf:par": null,
+        "phone": null,
+        "website": null,
+        "start_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6849321,
+          41.7355
+        ]
+      },
+      "properties": {
+        "osm_id": 209994107,
+        "name": "Beverly Country Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 71,
+        "phone": "1323804656",
+        "website": "https://www.beverlycc.org/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 5,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 5,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 3,
+        "golf:hole:11:par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0335028,
+          41.6376644
+        ]
+      },
+      "properties": {
+        "osm_id": 295949950,
+        "name": "Big Run Golf Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": "+1-815-838-1057",
+        "website": "https://www.bigrungolf.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 5,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 3,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 5,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7573011094594,
+          41.9877045135135
+        ]
+      },
+      "properties": {
+        "osm_id": 6523351,
+        "name": "Billy Caldwell Golf Course",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 35,
+        "phone": "773.792.1930",
+        "website": "https://billycaldwell.forestpreservegolf.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1391064,
+          42.2028708
+        ]
+      },
+      "properties": {
+        "osm_id": 296074147,
+        "name": "Biltmore Country Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 71,
+        "phone": "+1-847-381-1960",
+        "website": "https://www.biltmore-cc.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 3,
+        "golf:hole:6:par": 5,
+        "golf:hole:7:par": 3,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9829000019736,
+          42.3748568921053
+        ]
+      },
+      "properties": {
+        "osm_id": 4087152,
+        "name": "Bittersweet Golf Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": "+1 847-855-9031",
+        "website": "https://www.bittersweetgolf.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 5,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 5,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0151656,
+          42.3243172
+        ]
+      },
+      "properties": {
+        "osm_id": 295902622,
+        "name": "Black Hawk Run Golf Club",
+        "golf:type": "public",
+        "golf:holes": null,
+        "golf:par": null,
+        "phone": "+1-815-947-3011",
+        "website": "http://www.blackhawkrun.com/",
+        "start_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4350501,
+          41.8301046
+        ]
+      },
+      "properties": {
+        "osm_id": 123315359,
+        "name": "Black Sheep Golf Club",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 36,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 5,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 5,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4131984,
+          41.6861387
+        ]
+      },
+      "properties": {
+        "osm_id": 62970558,
+        "name": "Blackberry Oaks Golf Course",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 5,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 5,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5412907,
+          42.1877741
+        ]
+      },
+      "properties": {
+        "osm_id": 564050961,
+        "name": "Blackstone Golf Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": "(815) 923-1800",
+        "website": "https://blackstonegc.com/",
+        "start_date": "2006",
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 5,
+        "golf:hole:5:par": 3,
+        "golf:hole:6:par": 5,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 5,
+        "golf:hole:10:par": 5,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0581911,
+          41.9510868
+        ]
+      },
+      "properties": {
+        "osm_id": 776803168,
+        "name": "Bloomingdale Golf Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 71,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 5,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 5,
+        "golf:hole:9:par": 3,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9689734,
+          40.4851005
+        ]
+      },
+      "properties": {
+        "osm_id": 316796255,
+        "name": "Bloomington Country Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 71,
+        "phone": "+1-309-827-6151",
+        "website": "https://www.bloomcc.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 5,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 5,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8064959,
+          42.1695759
+        ]
+      },
+      "properties": {
+        "osm_id": 195246182,
+        "name": "Bob O Link Golf Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": "1341569896",
+        "website": "https://www.bobolinkgolfclub.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 5,
+        "golf:hole:6:par": 5,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 5,
+        "golf:hole:11:par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1531674,
+          41.660021
+        ]
+      },
+      "properties": {
+        "osm_id": 443626080,
+        "name": "Bolingbrook Golf Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 5,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 5,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 5,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8595542,
+          42.3986553
+        ]
+      },
+      "properties": {
+        "osm_id": 40117532,
+        "name": "Bonnie Brook Golf Course",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": "+1-847-360-4730",
+        "website": "https://www.waukegangolf.org/",
+        "start_date": null,
+        "golf:hole:1:par": 5,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 5,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2554059,
+          42.109601
+        ]
+      },
+      "properties": {
+        "osm_id": 93635765,
+        "name": "Bonnie Dundee Golf Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 70,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3329715,
+          42.3105623
+        ]
+      },
+      "properties": {
+        "osm_id": 296074152,
+        "name": "Boone Creek Golf Course",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 35,
+        "phone": "+1-815-455-6900",
+        "website": "http://www.boonecreekgolf.com/",
+        "start_date": null,
+        "golf:hole:1:par": 5,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 3,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.059135,
+          41.711403
+        ]
+      },
+      "properties": {
+        "osm_id": 440880371,
+        "name": "Boughton Ridge Golf Course",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 32,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3645534017157,
+          42.1798860272059
+        ]
+      },
+      "properties": {
+        "osm_id": 3937284,
+        "name": "Boulder Ridge Country Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": "+1 847-854-3010",
+        "website": "https://www.boulderridge.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 5,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 3,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 5,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7181408,
+          41.4501944
+        ]
+      },
+      "properties": {
+        "osm_id": 865452915,
+        "name": "Bourne Golf Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 71,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 5,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3857284786408,
+          41.996492184466
+        ]
+      },
+      "properties": {
+        "osm_id": 16795579,
+        "name": "Bowes Creek Country Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 71,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 3,
+        "golf:hole:6:par": 5,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 5,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 5,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0091618,
+          42.3494932
+        ]
+      },
+      "properties": {
+        "osm_id": 61431783,
+        "name": "Brae Loch Golf Course",
+        "golf:type": "public",
+        "golf:holes": 12,
+        "golf:par": 70,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 3,
+        "golf:hole:6:par": 5,
+        "golf:hole:7:par": 5,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4,
+        "golf:hole:12:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.83815,
+          42.1617615
+        ]
+      },
+      "properties": {
+        "osm_id": 113046612,
+        "name": "Briarwood Country Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 71,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 5,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 5,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0148674,
+          41.5763232
+        ]
+      },
+      "properties": {
+        "osm_id": 295949951,
+        "name": "Broken Arrow Golf Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": "+1-815-836-8858",
+        "website": "https://www.golfbrokenarrow.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 5,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 5,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1763714459075,
+          41.8912429758008
+        ]
+      },
+      "properties": {
+        "osm_id": 20374057,
+        "name": "Brook Tree Golf Course",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 70,
+        "phone": null,
+        "website": null,
+        "start_date": "1929",
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 5,
+        "golf:hole:5:par": 3,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 5,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1316525,
+          40.33782
+        ]
+      },
+      "properties": {
+        "osm_id": 295758006,
+        "name": "Brookhill Golf Course",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": "+1-217-893-1200",
+        "website": "http://www.golfbrookhillgc.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 5,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 5,
+        "golf:hole:7:par": 3,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7510176,
+          39.7840597
+        ]
+      },
+      "properties": {
+        "osm_id": 426001243,
+        "name": "Brookhills Golf Club",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 31,
+        "phone": "+1-217-787-8576",
+        "website": "https://www.brookhillsgolfclub.net/",
+        "start_date": null,
+        "golf:hole:1:par": 3,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7337641,
+          42.0008943
+        ]
+      },
+      "properties": {
+        "osm_id": 109757153,
+        "name": "Bryn Mawr Country Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": "1323804656",
+        "website": "https://www.brynmawrcountryclub.com/",
+        "start_date": null,
+        "golf:hole:1:par": 5,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 5,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 3,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7380685,
+          41.9553369
+        ]
+      },
+      "properties": {
+        "osm_id": 620986655,
+        "name": "Buena Vista Golf Course",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": null,
+        "website": null,
+        "start_date": "1998",
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 5,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 3,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 5,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9733191,
+          42.1556725
+        ]
+      },
+      "properties": {
+        "osm_id": 296130345,
+        "name": "Buffalo Grove Golf Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": "+1-847-459-5520",
+        "website": "https://www.buffalogrovegolf.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 5,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 5,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.408832,
+          42.3035469
+        ]
+      },
+      "properties": {
+        "osm_id": 437206986,
+        "name": "Bull Valley Golf Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 5,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 3,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 5,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0139675869047,
+          42.2898688928572
+        ]
+      },
+      "properties": {
+        "osm_id": 19947965,
+        "name": "Bunker Hills Golf Course",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": "+1-763-755-4141",
+        "website": "https://www.bunkerhillsgolf.com/",
+        "start_date": "1968",
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 5,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 5,
+        "golf:hole:7:par": 3,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3718923,
+          40.9889969
+        ]
+      },
+      "properties": {
+        "osm_id": 182572140,
+        "name": "Bunker Links Golf Course",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 69,
+        "phone": "+1 309 344 1818",
+        "website": "https://www.ci.galesburg.il.us/services/bunker_links_golf/",
+        "start_date": "1937",
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 5,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 3,
+        "golf:hole:8:par": 5,
+        "golf:hole:9:par": 3,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6349476,
+          39.7708309
+        ]
+      },
+      "properties": {
+        "osm_id": 295758007,
+        "name": "Bunn Golf Course",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": "+1-217-522-2633",
+        "website": "https://www.springfieldparkdistrictgolf.org/bunn_golf_course/",
+        "start_date": null,
+        "golf:hole:1:par": 5,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 5,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5328539,
+          41.6361707
+        ]
+      },
+      "properties": {
+        "osm_id": 176739766,
+        "name": "Burnham Woods Golf Course",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": "1503068273",
+        "website": "https://burnhamwoods.forestpreservegolf.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 5,
+        "golf:hole:5:par": 3,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 5,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9401132,
+          41.8403794
+        ]
+      },
+      "properties": {
+        "osm_id": 35567595,
+        "name": "Butler National Golf Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 71,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 5,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 3,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 5,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9769304,
+          41.8366909
+        ]
+      },
+      "properties": {
+        "osm_id": 686948817,
+        "name": "Butterfield Country Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 71,
+        "phone": "+1-630-323-1000",
+        "website": "https://www.butterfieldcc.org/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 3,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 5,
+        "golf:hole:9:par": 3,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.301302,
+          41.6092699
+        ]
+      },
+      "properties": {
+        "osm_id": 283872473,
+        "name": "Byron Hills Golf Course",
+        "golf:type": "public",
+        "golf:holes": 12,
+        "golf:par": 71,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 5,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 3,
+        "golf:hole:8:par": 5,
+        "golf:hole:9:par": 3,
+        "golf:hole:10:par": 5,
+        "golf:hole:11:par": 4,
+        "golf:hole:12:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6703647,
+          41.5751282
+        ]
+      },
+      "properties": {
+        "osm_id": 109199690,
+        "name": "Calumet Country Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 71,
+        "phone": "(708) 799-2230",
+        "website": "https://www.calumetcc.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 5,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 5,
+        "golf:hole:10:par": 5,
+        "golf:hole:11:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1556909,
+          41.8489369
+        ]
+      },
+      "properties": {
+        "osm_id": 31928498,
+        "name": "Cantigny Golf",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 27,
+        "phone": null,
+        "website": "http://www.cantignygolf.org/",
+        "start_date": null,
+        "golf:hole:1:par": 3,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 3,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 3,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1485197,
+          41.8412139
+        ]
+      },
+      "properties": {
+        "osm_id": 31928531,
+        "name": "Cantigny Golf Youth Links",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 27,
+        "phone": "6996354588",
+        "website": "https://cantigny.org/",
+        "start_date": null,
+        "golf:hole:1:par": 3,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 3,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 3,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2979779271028,
+          39.4122755523364
+        ]
+      },
+      "properties": {
+        "osm_id": 18542838,
+        "name": "Canyata Golf Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 5,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 5,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 5,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6097159484076,
+          41.3456420732484
+        ]
+      },
+      "properties": {
+        "osm_id": 3382796,
+        "name": "Cardinal Creek Golf Course",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": "15786754833",
+        "website": "https://cardinalcreekgolfclub.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 3,
+        "golf:hole:6:par": 5,
+        "golf:hole:7:par": 3,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 5,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6405276,
+          39.1430295
+        ]
+      },
+      "properties": {
+        "osm_id": 587346692,
+        "name": "Cardinal Golf Course",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 5,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 5,
+        "golf:hole:8:par": 5,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 5,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7886330859184,
+          41.6837137181632
+        ]
+      },
+      "properties": {
+        "osm_id": 4086244,
+        "name": "Carillon Golf Course",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 71,
+        "phone": "+1 815-886-2132",
+        "website": "https://www.carillongolf.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 5,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 5,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 5,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2103831,
+          38.0725647
+        ]
+      },
+      "properties": {
+        "osm_id": 670007592,
+        "name": "Carmi Country Club",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 35,
+        "phone": null,
+        "website": "https://www.carmicountryclub.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9860505837838,
+          41.7319662243243
+        ]
+      },
+      "properties": {
+        "osm_id": 2981936,
+        "name": "Carriage Greens Golf Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 70,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 5,
+        "golf:hole:5:par": 3,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1503813,
+          40.4240765
+        ]
+      },
+      "properties": {
+        "osm_id": 305034185,
+        "name": "Carthage Golf Course",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 35,
+        "phone": "+1-217-357-3625",
+        "website": "http://www.carthagegolfclub.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 5,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2440184,
+          42.1968553
+        ]
+      },
+      "properties": {
+        "osm_id": 1134643517,
+        "name": "Cary Country Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 5,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 5,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 5,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5305132,
+          41.650377
+        ]
+      },
+      "properties": {
+        "osm_id": 479964177,
+        "name": "Cedardell Golf Club",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 35,
+        "phone": "+1-630-552-3242",
+        "website": "https://www.cedardellgolf.com/",
+        "start_date": "1926",
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 3,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 3,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2625122,
+          40.1026665
+        ]
+      },
+      "properties": {
+        "osm_id": 137367411,
+        "name": "Champaign Country Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 71,
+        "phone": "+1-217-356-1391",
+        "website": "https://www.champaigncountryclub.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 5,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 3,
+        "golf:hole:11:par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2414588,
+          42.3629289
+        ]
+      },
+      "properties": {
+        "osm_id": 423003218,
+        "name": "Chapel Hill Country Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 70,
+        "phone": "+1-815-344-1894",
+        "website": "https://www.chapelhillgc.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 5,
+        "golf:hole:10:par": 3,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8574665,
+          37.9361536
+        ]
+      },
+      "properties": {
+        "osm_id": 531111333,
+        "name": "Chester Country Club",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 36,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 5,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 3,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9253504,
+          42.1565123
+        ]
+      },
+      "properties": {
+        "osm_id": 164468765,
+        "name": "Chevy Chase Golf Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 5,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 5,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 3,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6972222,
+          41.5483333
+        ]
+      },
+      "properties": {
+        "osm_id": null,
+        "name": "Cheyenne Shadows Golf Course Coyote Run Junior",
+        "golf:type": "public",
+        "golf:holes": null,
+        "golf:par": null,
+        "phone": null,
+        "website": "http://www.coyoterungolf.com/",
+        "start_date": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9480593,
+          41.6730957
+        ]
+      },
+      "properties": {
+        "osm_id": 776577422,
+        "name": "Chicago Golf Association",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 70,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 5,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 3,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 3,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1162077,
+          41.8454936
+        ]
+      },
+      "properties": {
+        "osm_id": 281979769,
+        "name": "Chicago Golf Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 70,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 5,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 3,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 3,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6305954,
+          41.5252375
+        ]
+      },
+      "properties": {
+        "osm_id": 187781330,
+        "name": "Chicago Heights Park District Golf Course East",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 35,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 5,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6591987,
+          41.5132876
+        ]
+      },
+      "properties": {
+        "osm_id": 122096013,
+        "name": "Chicago Heights Park District Golf Course West",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 36,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 5,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 5,
+        "golf:hole:9:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9139869,
+          41.8405384
+        ]
+      },
+      "properties": {
+        "osm_id": 186287241,
+        "name": "Chicago Highlands Club",
+        "golf:type": "public",
+        "golf:holes": 12,
+        "golf:par": 72,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 5,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 5,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4,
+        "golf:hole:12:par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7760165,
+          42.0520355
+        ]
+      },
+      "properties": {
+        "osm_id": 202762106,
+        "name": "Chick Evans Golf Course",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 71,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 5,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 3,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2178576,
+          41.3058859
+        ]
+      },
+      "properties": {
+        "osm_id": 295949952,
+        "name": "Cinder Ridge Golf Course",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": "+1-815-476-4000",
+        "website": "https://www.cinderridge.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 5,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 5,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5426145,
+          38.6605589
+        ]
+      },
+      "properties": {
+        "osm_id": 1462842602,
+        "name": "Clay County Country Club",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 34,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 5,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9746686087719,
+          40.482028222807
+        ]
+      },
+      "properties": {
+        "osm_id": 18783761,
+        "name": "Clearbrook",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": "+1-269-857-2000",
+        "website": "https://clearbrookgolfclub.com/",
+        "start_date": "1935",
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 5,
+        "golf:hole:6:par": 5,
+        "golf:hole:7:par": 3,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 3,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1002842,
+          38.9261337
+        ]
+      },
+      "properties": {
+        "osm_id": 295678316,
+        "name": "Cloverleaf Golf Course",
+        "golf:type": "public",
+        "golf:holes": 12,
+        "golf:par": 70,
+        "phone": "+1-618-462-3022",
+        "website": "https://cloverleafgolfcourse.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 3,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 3,
+        "golf:hole:8:par": 5,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4,
+        "golf:hole:12:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95201,
+          41.676468
+        ]
+      },
+      "properties": {
+        "osm_id": 52010101,
+        "name": "Cog Hill Golf & Country Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": null,
+        "website": null,
+        "start_date": "1963",
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 5,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 3,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2071168,
+          38.4806961
+        ]
+      },
+      "properties": {
+        "osm_id": 163602895,
+        "name": "Columbia Golf Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 71,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 5,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 5,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7706943,
+          41.8741143
+        ]
+      },
+      "properties": {
+        "osm_id": 34318240,
+        "name": "Columbus Park Golf Course",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 35,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 5,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.88909,
+          42.2299134
+        ]
+      },
+      "properties": {
+        "osm_id": 296130351,
+        "name": "Conway Farms Golf Club",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 71,
+        "phone": "+1-847-234-6979",
+        "website": "http://www.conwayfarmsgolfclub.org/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 4,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 5,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8835367,
+          39.8414577
+        ]
+      },
+      "properties": {
+        "osm_id": 171360454,
+        "name": "Country Club of Decatur",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": "+1-217-428-3415",
+        "website": "https://www.ccofdecatur.com/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 3,
+        "golf:hole:3:par": 5,
+        "golf:hole:4:par": 5,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 3,
+        "golf:hole:9:par": 4,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5617709,
+          40.7396434
+        ]
+      },
+      "properties": {
+        "osm_id": 39875542,
+        "name": "Country Club of Peoria Golf Course",
+        "golf:type": "public",
+        "golf:holes": 11,
+        "golf:par": 72,
+        "phone": null,
+        "website": "https://ccofpeoria.org/golf/",
+        "start_date": null,
+        "golf:hole:1:par": 4,
+        "golf:hole:2:par": 5,
+        "golf:hole:3:par": 5,
+        "golf:hole:4:par": 3,
+        "golf:hole:5:par": 4,
+        "golf:hole:6:par": 4,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 5,
+        "golf:hole:9:par": 3,
+        "golf:hole:10:par": 4,
+        "golf:hole:11:par": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8102212,
+          40.073308
+        ]
+      },
+      "properties": {
+        "osm_id": 884223870,
+        "name": "Country Hills Golf Course",
+        "golf:type": "public",
+        "golf:holes": 9,
+        "golf:par": 36,
+        "phone": null,
+        "website": null,
+        "start_date": null,
+        "golf:hole:1:par": 5,
+        "golf:hole:2:par": 4,
+        "golf:hole:3:par": 4,
+        "golf:hole:4:par": 5,
+        "golf:hole:5:par": 3,
+        "golf:hole:6:par": 3,
+        "golf:hole:7:par": 4,
+        "golf:hole:8:par": 4,
+        "golf:hole:9:par": 4
+      }
+    }
+  ]
+}
